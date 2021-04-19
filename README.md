@@ -1,5 +1,5 @@
 
-<img style="float: right;" src="https://github.com/Katheesh/Curriculum-Vitae/raw/master/72.png">
+<img align="right" src="https://github.com/Katheesh/Curriculum-Vitae/raw/master/72.png">
 
 ## **SITHAMPARAPILLAI KATHEESKUMAR**
 **[Phone: 777437177](tel:+94777437177)**
@@ -10,7 +10,7 @@
 
 **[Gitlab: https://gitlab.com/katheesh](https://gitlab.com/katheesh)**
 
-# &nbsp;
+<hr/>
 
 ### **CAREER OBJECTIVE**
 
