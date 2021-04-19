@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/Katheesh/Curriculum-Vitae/raw/master/72.png">
 
 ## **SITHAMPARAPILLAI KATHEESKUMAR**
-**[Phone: 777 437 177](tel:+94777437177)**
+**[Mobile: 777 437 177](tel:+94777437177)**
 
 **[Email: katheeskumar@outlook.com](mailto:katheeskumar@outlook.com)**
 
