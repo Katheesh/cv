@@ -39,7 +39,7 @@ Being an excellent team player with in-depth knowledge of development tools and 
 - Six months work experience as a Data Entry Operator at Zonal Education Office - July, 2015 to January, 2016 
 
 - Undertaken several individual projects freelance
-    * Teaching Hospital Batticaloa Uniersity Surgical Unit [Web Application](https://usuthb.org/)
+    * Teaching Hospital Batticaloa University Surgical Unit [Web Application](https://usuthb.org/)
     * Batticaloa-West Zonal Education office [Web Application](https://battiwestzeo.lk/)
     * Action Unity Lanka Skill find Quiz Desktop Application linked to the [Web Application](https://aulanka.com)
     * Science Navigators Organization [Web Application](https://learn.scinav.org/) & [Desktop Application](https://github.com/gitleafx/scinav-quiz/releases)
